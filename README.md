@@ -2,7 +2,7 @@
 
 ## GUID applicability statement
 
-The [TDWG Globally Unique Identifiers (GUID) applicability statement](guid/applicability_statement.doc):
+The [TDWG Globally Unique Identifiers (GUID) applicability statement](guid/tdwg_guid_applicability_statement.pdf):
 
 1. Provides guidance on how to use GUIDs to meet specific requirements of the biodiversity information community.
 2. Is a high level document that applies to GUIDs in general. There is, or will be, a separate document for the applicability of each specific GUID technology.
