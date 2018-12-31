@@ -13,7 +13,7 @@ The [TDWG Globally Unique Identifiers (GUID) applicability statement](guid/tdwg_
 
 ## LSID applicability statement
 
-The [TDWG Life Science Identifiers (LSID) applicability statement](lsid/applicability_statement.doc):
+The [TDWG Life Science Identifiers (LSID) applicability statement](lsid/tdwg_lsid_applicability_statement.pdf):
 
 1. Is a specific GUID applicability statement that should be read in conjunction with the general GUID applicability statement.
 2. Provides guidance on how to use Life Science Identifiers (LSID) to meet specific requirements of the biodiversity information community.
